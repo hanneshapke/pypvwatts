@@ -31,5 +31,5 @@ setup(
         'Topic :: Internet :: WWW/HTTP',
     ],
     keywords='nrel pvwatts pypvwatts',
-    license='MIT',
+    license='MIT'
 )
