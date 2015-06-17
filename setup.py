@@ -18,7 +18,7 @@ setup(
     long_description=open('README.md').read(),
     packages=['pypvwatts'],
     provides=['pypvwatts'],
-    requires=['requests'],
+    # requires=['requests'],
     install_requires=['requests >= 2.1.0'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
